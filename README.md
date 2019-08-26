@@ -2,6 +2,7 @@
 
 [![Ros version](https://img.shields.io/badge/ROS%20version-Melodic-green)](https://wiki.ros.org/melodic)
 [![Python 2](https://img.shields.io/badge/Python%202-2.7-brightgreen)](https://www.python.org/)
+[![Python 3](https://img.shields.io/badge/Python%203-not%20supported-red)](https://www.python.org/)
 
 This repository contains a simple ROS python pack.
 
