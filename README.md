@@ -1,6 +1,7 @@
 # A simple ros python node example
+
 [![Ros version](https://img.shields.io/badge/ROS%20version-Melodic-green)](https://wiki.ros.org/melodic)
-[![Python 2](https://img.shields.io/badge/python%203-2.7-green.svg)](https://www.python.org/)
+[![Python 2](https://img.shields.io/badge/Python%202-2.7-brightgreen)](https://www.python.org/)
 
 This repository contains a simple ROS python pack.
 
